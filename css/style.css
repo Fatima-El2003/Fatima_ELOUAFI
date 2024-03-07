@@ -5249,8 +5249,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 /* Slider image styles */
 #sliderImage {
-  max-width: 80%;
-  max-height: 80vh;
+  max-width: 120px;
+  max-height: 100px;
 }
 
 /* Close button styles */
