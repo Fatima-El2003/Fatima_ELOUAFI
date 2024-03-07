@@ -1,14 +1,14 @@
 const projects = {
     'hotelfinder': {
         slides: [
-            'img/hotelfinder/int1.png',
-            'img/hotelfinder/int2.png',
-            'img/hotelfinder/int3.png',
-            'img/hotelfinder/int4.png',
-            'img/hotelfinder/int5.png',
-            'img/hotelfinder/int6.png',
-            'img/hotelfinder/int7.png',
-            'img/hotelfinder/int9.png',
+            'img/hotelfinder/int1.PNG',
+            'img/hotelfinder/int2.PNG',
+            'img/hotelfinder/int3.PNG',
+            'img/hotelfinder/int4.PNG',
+            'img/hotelfinder/int5.PNG',
+            'img/hotelfinder/int6.PNG',
+            'img/hotelfinder/int7.PNG',
+            'img/hotelfinder/int9.PNG',
             // Add more image paths for Hotel Finder as needed
         ],
     },
