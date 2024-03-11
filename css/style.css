@@ -5241,11 +5241,6 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin: 5px;
 }
 
-/* Slider image styles */
-#sliderImage {
-  max-width: 120px;
-  max-height: 100px;
-}
 
 /* Close button styles */
 #closeBtn {
